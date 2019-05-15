@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: localhost:3306/study
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    data-username: root
+    data-password: root
+
+
+swagger:
+  enabled: true
